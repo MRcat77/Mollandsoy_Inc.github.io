@@ -2,41 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88b5a6a6-e29d-4866-a568-cdc9312f6bc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/RobotoMono-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/static/RobotoMono-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/static/RobotoMono-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/static/RobotoMono-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/static/RobotoMono-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/static/RobotoMono-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/static/RobotoMono-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/static/RobotoMono-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/static/RobotoMono-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/static/RobotoMono-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/static/RobotoMono-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/static/RobotoMono-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/static/RobotoMono-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/static/RobotoMono-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Mono/static/RobotoMono-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Slab/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Slab/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Slab/static/RobotoSlab-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Slab/static/RobotoSlab-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Slab/static/RobotoSlab-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Slab/static/RobotoSlab-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Slab/static/RobotoSlab-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Slab/static/RobotoSlab-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Slab/static/RobotoSlab-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Slab/static/RobotoSlab-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto_Slab/static/RobotoSlab-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Pics/MRcat.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amalie_Skram.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,23 +39,11 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="proofread" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -92,7 +53,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623332052845</updated>
-      <workItem from="1623352573147" duration="12689000" />
+      <workItem from="1623352573147" duration="14044000" />
+      <workItem from="1625601196420" duration="34000" />
+      <workItem from="1625601500574" duration="111000" />
+      <workItem from="1629119750078" duration="6259000" />
+      <workItem from="1629128401610" duration="7774000" />
     </task>
     <servers />
   </component>
@@ -113,5 +78,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
