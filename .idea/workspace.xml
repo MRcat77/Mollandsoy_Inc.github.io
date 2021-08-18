@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88b5a6a6-e29d-4866-a568-cdc9312f6bc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Pics/MRcat.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Pics/MRcat.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Pics/MRcat.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +56,8 @@
       <workItem from="1625601500574" duration="111000" />
       <workItem from="1629119750078" duration="6259000" />
       <workItem from="1629128401610" duration="7774000" />
+      <workItem from="1629269514989" duration="1570000" />
+      <workItem from="1629271370826" duration="4098000" />
     </task>
     <servers />
   </component>

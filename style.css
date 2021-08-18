@@ -55,19 +55,21 @@ body {
   flex-direction: column;
 }
 
-#info-pic {
+#info-text {
   display: flex;
   flex-direction: row;
   justify-content: start;
   margin: 0 5vh 0 2vh;
 }
 
-#info-pic img {
+#info-text img {
   width: 20vw;
   height: 20vw;
+  justify-content: right;
+  margin: 0 0 0 3vh;
 }
 
-#info a {
+#info-text a {
   font-family: "PT Serif", serif;
   margin: 1vh 1vh 0 2vh;
   text-align: left;
