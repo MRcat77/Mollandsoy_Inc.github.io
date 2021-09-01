@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88b5a6a6-e29d-4866-a568-cdc9312f6bc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/Pics/Coding-placeholder.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Pics/Discord-Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Pics/GitHub-Logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -60,7 +57,9 @@
       <workItem from="1629128401610" duration="7774000" />
       <workItem from="1629269514989" duration="1570000" />
       <workItem from="1629271370826" duration="4696000" />
-      <workItem from="1629440674225" duration="13209000" />
+      <workItem from="1629440674225" duration="13531000" />
+      <workItem from="1630045747439" duration="128000" />
+      <workItem from="1630046093640" duration="4786000" />
     </task>
     <servers />
   </component>
