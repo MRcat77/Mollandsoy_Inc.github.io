@@ -44,6 +44,7 @@ Dark blue: #0474BA
 body
 {
     margin: 0;
+
 }
 
 html
@@ -59,7 +60,7 @@ br
 
 hr
 {
-    border: 10px outset red;
+    border: 10px outset #00A7E1;
     border-radius: 100vw;
     width: 45vw;
     float: left;
@@ -93,10 +94,18 @@ hr
 
 #home
 {
-    background-color: aqua;
+    background-color: #0474BA;
 }
 
 /*1.5 Info*/
+#background
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #0474BA;
+}
+
+
 #title
 {
     text-align: left;
@@ -110,13 +119,13 @@ hr
 {
     display: flex;
     flex-direction: column;
+    background-color: #EBEBEB;
 }
 
 #info-text
 {
     display: flex;
     flex-direction: row;
-    justify-content: start;
     margin: 0 5vh 0 2vh;
 }
 
@@ -133,7 +142,7 @@ hr
     height: 20vw;
     justify-content: right;
     margin: 4vh 0 4vh 3vh;
-    border: solid beige 1vh;
+    border: solid #00A7E1 1vh;
     border-radius: 7vw;
 }
 
@@ -142,8 +151,11 @@ hr
 {
     display: flex;
     flex-direction: row;
-    align-self: center;
+    justify-content: center;
+    background-color: #00A7E1;
+    width: 100vw;
 }
+
 
 #carousel img
 {
@@ -163,6 +175,7 @@ hr
     display: flex;
     background-color: darkgray;
     justify-content: flex-end;
+    box-shadow: rgba(0, 0, 0, .2) 0 -1.25vh 1vh;
 }
 
 logo

@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88b5a6a6-e29d-4866-a568-cdc9312f6bc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logos/discord.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logos/github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logos/graphide.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logos/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logos/yessness.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Mollandsoy_Inc.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Mollandsoy_Inc.github.io.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -78,7 +69,7 @@
       <workItem from="1629440674225" duration="13531000" />
       <workItem from="1630045747439" duration="128000" />
       <workItem from="1630046093640" duration="4786000" />
-      <workItem from="1630478612056" duration="12081000" />
+      <workItem from="1630478612056" duration="21159000" />
     </task>
     <servers />
   </component>
