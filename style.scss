@@ -75,7 +75,7 @@ hr
     font-family: "Roboto Slab", sans-serif;
     font-weight: 900;
     font-size: 10vh;
-    margin: 39vh 0;
+    margin: 41vh 0;
 }
 
 /*1.4 Tool bar*/
@@ -184,10 +184,17 @@ logo
     height: 3vw;
     width: 3vw;
     margin-left: 10px;
-    padding: 1vh;
+    padding: 0.5vh;
     align-self: center;
     fill: black;
     stroke: black;
     background: gray;
     border-radius: 100vw;
+}
+
+#graphide
+{
+    padding: 0;
+    width: 3.6vw;
+    height: 3.6vw;
 }
