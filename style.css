@@ -175,7 +175,44 @@ tool-button:hover {
 }
 
 .project {
+  background: #C263CFFF;
+  width: 30vh;
+  height: 30vh;
+  border: solid #C263CFFF 1vh;
   border-radius: 5vh;
+  margin: 0 3vw 20vh 3vw;
+  position: relative;
+  transition: ease 2s;
+  z-index: 1;
+}
+
+.project:after {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  content: "";
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 25%, #EBEBEB);
+  opacity: 0;
+  transition: opacity 1s ease-out;
+  z-index: 2;
+  border-radius: 5vh;
+}
+
+.project:hover:after {
+  opacity: 1;
+}
+
+.project span {
+  display: flex;
+  padding: 25vh 0 0 10vh;
+  opacity: 1;
+  z-index: 3;
+}
+
+.project span:hover {
+  opacity: 1;
 }
 
 /*1.7 Footer*/
@@ -196,7 +233,7 @@ logo {
   align-self: center;
   fill: #EBEBEB;
   stroke: #EBEBEB;
-  background: #C263CFFF;
+  background: #fc5c7d;
   border-radius: 100vw;
 }
 

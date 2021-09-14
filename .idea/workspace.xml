@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88b5a6a6-e29d-4866-a568-cdc9312f6bc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js-test/Crole.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js-test/test.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js-test/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -54,6 +51,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -83,6 +81,7 @@
       <workItem from="1631210749779" duration="6894000" />
       <workItem from="1631600401145" duration="137000" />
       <workItem from="1631600581345" duration="13997000" />
+      <workItem from="1631629690524" duration="15193000" />
     </task>
     <servers />
   </component>
