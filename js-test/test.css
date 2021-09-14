@@ -1,0 +1,15 @@
+
+.fade-in
+{
+    width: 100vw;
+    height: 500px;
+    background-color: deeppink;
+    margin: 10vh;
+    opacity: 0;
+    transition: opacity 450ms ease-in;
+}
+.fade-in.appear
+{
+    opacity: 1;
+}
+
