@@ -133,7 +133,7 @@ hr
     user-select: none;
 }
 
-tool-button
+#tool-bar a
 {
     display: flex;
     justify-content: center;
@@ -144,7 +144,15 @@ tool-button
     transition: ease .3s;
 }
 
-tool-button:hover
+#tool-bar a:hover
+{
+    background: #C263CFFF;
+    max-height: 8vh;
+    font-size: 3vh;
+    cursor: pointer;
+}
+
+#current
 {
     background: #C263CFFF;
     max-height: 8vh;
@@ -284,6 +292,7 @@ tool-button:hover
     color:  black;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
     font-size: 3vh;
+    cursor: pointer;
     user-select: none;
     border-radius: 3vh;
 }
@@ -299,7 +308,7 @@ tool-button:hover
     box-shadow: rgba(0, 0, 0, .2) 0 -1.25vh 1vh;
 }
 
-logo
+#footer a
 {
     display: flex;
     align-self: center;
