@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88b5a6a6-e29d-4866-a568-cdc9312f6bc8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/subpages/about-me.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/projects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/website-logs.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logos.js" beforeDir="false" afterPath="$PROJECT_DIR$/skript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-test/Crole.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-test/test.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-test/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/skript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
@@ -18,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,6 +63,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\notth\OneDrive\Dokumenter\GitHub\cat inc" />
+      <recent name="C:\Users\notth\OneDrive\Dokumenter\GitHub\cat inc\js" />
+      <recent name="C:\Users\notth\OneDrive\Dokumenter\GitHub\cat inc\assets\subpages" />
       <recent name="C:\Users\notth\OneDrive\Dokumenter\GitHub\cat inc\test" />
     </key>
   </component>
