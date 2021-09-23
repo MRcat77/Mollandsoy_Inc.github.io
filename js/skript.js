@@ -4,6 +4,7 @@ $("#yessness").load("assets/logos/yessness.svg")
 $("#discord").load("assets/logos/discord.svg")
 $("#github").load("assets/logos/github.svg")
 $("#twitter").load("assets/logos/twitter.svg")
+$("#document").load("assets/logos/document.svg")
 
 const toolbarOffset = document.querySelector("#tool-bar").offsetTop;
 
@@ -18,3 +19,12 @@ window.onscroll = function () {
     }
 }
 
+function projectDropDow(element)
+{
+    if(element.nextElementSibling.style.display === "initial") {
+        element.nextElementSibling.style.display = "none";
+    } else {
+        element.nextElementSibling.style.display = "initial";
+    }
+
+}

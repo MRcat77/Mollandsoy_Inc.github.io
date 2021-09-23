@@ -259,7 +259,7 @@ html
     background: #fc5c7d;
 }
 
-#assignments
+#row
 {
     display: flex;
     justify-content: center;
@@ -273,7 +273,7 @@ html
     }
 }
 
-.projects
+.assignments
 {
     display: flex;
     justify-content: center;
@@ -385,3 +385,117 @@ html
         width: 7vw;
     }
 }
+
+/*1.8 Projects*/
+
+#projects-background
+{
+    width: 100vw;
+    height: 100vh;
+    justify-items: center;
+    background: linear-gradient(#fc5c7d -15%, #6a82fb);
+}
+
+.assignment
+{
+    padding: 1rem 2rem;
+    background: #6a82fb;
+    border: solid #C263CFFF 1vh;
+    display: flex;
+    flex-direction: column;
+    border-radius: 2rem;
+    max-width: 75vw;
+    margin: 4vw 15vw;
+}
+
+.assignment a
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.right
+{
+    justify-self: right;
+}
+
+.links
+{
+    display: flex;
+
+}
+
+.links p
+{
+    text-align: center;
+    padding: 4vh;
+}
+
+.type:before
+{
+    content: "Project Type: ";
+}
+
+
+.hidden
+{
+    display: none;
+}
+
+.info
+{
+    display: flex;
+    justify-content: left;
+    margin: 3vh;
+    font-size: 3vh;
+}
+
+.info p
+{
+    margin: 5vh 5vh;
+}
+
+.info img
+{
+    border-radius: 2rem;
+    border: solid #C263CFFF 1vh;
+    width: 25vh;
+    height: 25vh;
+}
+
+#document
+{
+    margin: 0 1rem 0 60vw;
+}
+
+.assignment-content
+{
+    display: flex;
+    flex-direction: column;
+}
+
+/*1.8 About Me*/
+
+#about-background
+{
+    display: flex;
+    height: 100vh;
+    background: #6a82fb;
+}
+
+#margin
+{
+    margin: 5vw 10vw 0;
+}
+
+#margin hr
+{
+    color: black;
+}
+
+#about-background h1
+{
+
+}
+
+/*1.9 Website Logs*/
