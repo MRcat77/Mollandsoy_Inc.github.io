@@ -265,7 +265,6 @@ html
     justify-content: center;
     width: 100vw;
     padding: 20vh 0 0 0;
-    background: #fc5c7d;
 
     @media (max-width: 800px)
     {
@@ -408,70 +407,8 @@ html
     margin: 4vw 15vw;
 }
 
-.assignment a
-{
-    text-decoration: underline;
-    cursor: pointer;
-}
+.project_info{
 
-.right
-{
-    justify-self: right;
-}
-
-.links
-{
-    display: flex;
-
-}
-
-.links p
-{
-    text-align: center;
-    padding: 4vh;
-}
-
-.type:before
-{
-    content: "Project Type: ";
-}
-
-
-.hidden
-{
-    display: none;
-}
-
-.info
-{
-    display: flex;
-    justify-content: left;
-    margin: 3vh;
-    font-size: 3vh;
-}
-
-.info p
-{
-    margin: 5vh 5vh;
-}
-
-.info img
-{
-    border-radius: 2rem;
-    border: solid #C263CFFF 1vh;
-    width: 25vh;
-    height: 25vh;
-}
-
-#document
-{
-    margin: 0 1rem 0 60vw;
-}
-
-.assignment-content
-{
-    display: flex;
-    flex-direction: column;
 }
 
 /*1.8 About Me*/
@@ -498,4 +435,3 @@ html
 
 }
 
-/*1.9 Website Logs*/

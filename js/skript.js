@@ -18,13 +18,3 @@ window.onscroll = function () {
         document.querySelector("#tool-bar").style.position = "initial"
     }
 }
-
-function projectDropDow(element)
-{
-    if(element.nextElementSibling.style.display === "initial") {
-        element.nextElementSibling.style.display = "none";
-    } else {
-        element.nextElementSibling.style.display = "initial";
-    }
-
-}
