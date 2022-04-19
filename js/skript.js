@@ -1,5 +1,5 @@
 ///SVG logos that used to link socials
-$("#graphide").load("assets/logos/graphide.svg")
+$("#recal").load("assets/logos/recal.svg")
 $("#yessness").load("assets/logos/yessness.svg")
 $("#discord").load("assets/logos/discord.svg")
 $("#github").load("assets/logos/github.svg")

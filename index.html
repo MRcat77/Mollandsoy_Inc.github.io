@@ -6,57 +6,55 @@
     <!--This helps with responsiveness-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!--Links the index to the css-->
     <link rel="stylesheet" type="text/css" href="style.css">
 
-    <!--The tittle of the website-->
     <title>Cat Inc.</title>
 
 </head>
 <body>
 
-    <!--Tool bar-->
-    <div id="tool-bar">
-        <a id="current" href="index.html">Mollandsoy Inc.</a>
-        <a href="subpages/projects.html">Projects</a>
-        <a href="">RecordBeat</a>
-        <a href="subpages/about-me.html">About</a>
+    <div id="header"></div>
+
+    <!--front-->
+    <div>
+
     </div>
 
-    <h1 id="headline">Mollandsoy Inc.</h1>
+    <!--recal-->
+    <div>
 
-        <!--Displaying new projects and website updates-->
-        <div id="projects-content">
-            <div id="dynamic-box">
-                <div class="projects">
-                    <a class="project"><p>Coming soon</p></a>
-                    <a class="project"><p>Coming soon</p></a>
-                </div>
-                <div class="projects">
-                    <a class="project"><p>Coming soon</p></a>
-                    <a class="project"><p>Coming soon</p></a>
-                </div>
+    </div>
+
+    <!--record beat-->
+    <div>
+
+    </div>
+
+    <!--Displaying new projects and website updates-->
+    <div id="projects-content">
+        <div id="dynamic-box">
+            <div class="projects">
+                <a class="project"><p>Coming soon</p></a>
+                <a class="project"><p>Coming soon</p></a>
             </div>
-            <a id="more">More</a>
+            <div class="projects">
+                <a class="project"><p>Coming soon</p></a>
+                <a class="project"><p>Coming soon</p></a>
+            </div>
         </div>
-
-
-      <!--logos linking to the website creators socials-->
-        <div id="footer">
-            <a id="graphide" href="https://graphide.me/"></a>
-            <a id="yessness" href="https://yessness.com/"></a>
-            <a id="github" href="https://github.com/MRcat77"></a>
-            <a id="twitter" href="https://twitter.com/MRcat_77"></a>
-        </div>
+        <a id="more">More</a>
     </div>
+
+
+    <div id="footer"></div>
 
     <!--Jquery linking stuff-->
-    <script
-            src="https://code.jquery.com/jquery-3.6.0.min.js"
-            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-            crossorigin="anonymous">
-    </script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
     <script src="js/skript.js"></script>
+
+    <script>$("#header").load("/objects/header.html");</script>
+    <script>$("#footer").load("/objects/footer.html");</script>
 
 </body>
 </html>

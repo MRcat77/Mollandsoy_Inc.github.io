@@ -29,6 +29,15 @@
 
 // .2 Color variables
 
+$black:#092A34;
+$white:#EBEBEB;
+
+$dark:#3A0CA3;
+$middle:#4361EE;
+$light:#4895EF;
+
+$dark-style:#7209B7;
+$light-style:#F72585;
 
 // 1. General
 
@@ -36,6 +45,7 @@
 body
 {
     margin: 0;
+    background: $middle;
 }
 
 html
@@ -49,7 +59,6 @@ html
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: #fc5c7d;
 
     #dynamic-box {
         display: flex;
@@ -73,12 +82,12 @@ html
                 height: 15vw;
                 width: 15vw;
                 margin: 0 3vw 5vh;
-                background: #C263CFFF;
+                background: $light;
                 color: transparent;
-                box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+                box-shadow: 0 8px 16px 0 $black;
                 isolation: isolate;
                 transition: 200ms ease;
-                border: solid #C263CFFF 1vh;
+                border: solid $light 1vh;
                 border-radius: 5vh;
 
                 @media (max-width: 800px) {
@@ -94,14 +103,14 @@ html
                 }
 
                 &:hover {
-                    color: black;
+                    color: $white;
                 }
 
                 &::after {
                     position: absolute;
                     z-index: -1;
                     inset: 0;
-                    background: linear-gradient(transparent 25%, #EBEBEB);
+                    background: linear-gradient(transparent 25%, $dark);
                     opacity: 0;
                     content: "";
                     transition: 200ms ease;
@@ -128,9 +137,9 @@ html
         width: 14vh;
         padding: .5rem 2rem;
         margin: 3vh 0 15vh 0;
-        background: #EBEBEB;
-        color: black;
-        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+        background: $dark;
+        color: $white;
+        box-shadow: 0 8px 16px 0 $black;
         font-size: 3vh;
         cursor: pointer;
         user-select: none;
@@ -139,14 +148,14 @@ html
 }
 
 // .3 Header
-#tool-bar
+#header
 {
     display: flex;
     z-index: 3;
     top: 0;
     max-height: 5rem;
-    background: #EBEBEB;
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background: $white;
+    box-shadow: 0 4px 16px 0 $black;
     user-select: none;
 
     a
@@ -156,7 +165,7 @@ html
         align-items: center;
         min-height: 5rem;
         width: 25vw;
-        color: black;
+        color: $black;
         text-decoration: none;
         text-align: center;
         font-family: "Roboto Slab", sans-serif;
@@ -164,9 +173,9 @@ html
 
         &:hover
         {
-            background: #C263CFFF;
+            background: $light-style;
             max-height: 8vh;
-            color: black;
+            color: $black;
             text-decoration: none;
             font-size: 1.5rem;
             cursor: pointer;
@@ -175,9 +184,9 @@ html
 
     #current
     {
-        background: #C263CFFF;
+        background: $light-style;
         max-height: 8vh;
-        color: black;
+        color: $black;
         text-decoration: none;
         font-size: 1.5rem;
         cursor: pointer;
@@ -191,8 +200,8 @@ html
     justify-content: flex-end;
     padding: 1vh;
     column-gap: .5rem;
-    background-color: #6a82fb;
-    box-shadow: rgba(0, 0, 0, .2) 0 -1.25vh 1vh;
+    background-color: $light;
+    box-shadow: $black 0 -.5vh 5vh;
 }
 
 #footer a
@@ -202,9 +211,9 @@ html
     height: 2.5vw;
     width: 2.5vw ;
     padding: .75vh;
-    background: #fc5c7d;
-    fill: #EBEBEB;
-    stroke: #EBEBEB;
+    background: $light-style;
+    fill: $white;
+    stroke: $white;
     border-radius: 100vw;
 
     @media (max-width: 800px)
